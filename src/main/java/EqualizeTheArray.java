@@ -1,8 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+public class EqualizeTheArray {
 
+    //https://www.hackerrank.com/challenges/equality-in-a-array/forum
     static int equalizeArray(int[] arr) {
         int i;
         int a;
